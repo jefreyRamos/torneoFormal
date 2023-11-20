@@ -1,0 +1,19 @@
+{
+    "fileViewType": "tree",
+    "includeCommitsMentionedByReflogs": true,
+    "onlyFollowFirstParent": true,
+    "pullRequestConfig": {
+        "provider": "github",
+        "hostRootUrl": "https://github.com/jefreyRamos/torneoFormal.git",
+        "sourceRemote": "origin",
+        "sourceOwner": "jefreyRamosVS",
+        "sourceRepo": "primerproyecto",
+        "destRemote": "upstream",
+        "destOwner": "jefreyRamos",
+        "destRepo": "torneoFormal",
+        "destProjectId": "",
+        "destBranch": "main",
+        "custom": null
+    },
+    "exportedAt": 1697739583470
+}
